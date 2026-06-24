@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdul Hadi — Full-Stack Developer
 
-<!--
-**abdulhadi-js/abdulhadi-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building modern web apps with Next.js, React & TypeScript.
+> Based in Karachi, Pakistan. CS @ MAJU + SMIT.
 
-Here are some ideas to get you started:
+## What I Build
+- **LuxeStore** — Luxury e-commerce platform (Next.js, TypeScript, Tailwind CSS)
+  [Live demo](https://luxestoreapp.vercel.app) · [GitHub](https://github.com/abdulhadi-js/Ecommerce-App)
+- **Cabex** — Motion-driven e-commerce UI (Next.js, Framer Motion)
+- **QuantTex** — Textile industry website (Next.js, TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+`Next.js` `React` `TypeScript` `Tailwind CSS` `JavaScript` `Node.js` `Git`
+
+## GitHub Stats
+![Abdul Hadi GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhadi-js&show_icons=true&hide_border=true)
+
+## Contact
+**Abdul Hadi** — Full-Stack Developer based in Karachi, Pakistan
+Email: dev.alhadi@gmail.com · LinkedIn: [linkedin.com/in/alhadi-dev](https://linkedin.com/in/alhadi-dev) · Twitter: [@AlhadiDev](https://x.com/AlhadiDev)
