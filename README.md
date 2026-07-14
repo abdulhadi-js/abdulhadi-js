@@ -1,20 +1,170 @@
-# Hi, I'm Abdul Hadi — Full-Stack Developer
+<div align="center">
 
-> Building modern web apps with Next.js, React & TypeScript.
-> Based in Karachi, Pakistan. CS @ MAJU + SMIT.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Abdul%20Hadi&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20Next.js%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=55&descSize=18" />
 
-## What I Build
-- **LuxeStore** — Luxury e-commerce platform (Next.js, TypeScript, Tailwind CSS)
-  [Live demo](https://luxestoreapp.vercel.app) · [GitHub](https://github.com/abdulhadi-js/Ecommerce-App)
-- **Cabex** — Motion-driven e-commerce UI (Next.js, Framer Motion)
-- **QuantTex** — Textile industry website (Next.js, TypeScript)
+### `> Hey there!, I am Abdul Hadi`
 
-## Tech Stack
-`Next.js` `React` `TypeScript` `Tailwind CSS` `JavaScript` `Node.js` `Git`
+「 Full-Stack Developer building real-world apps with **Next.js, NestJS & TypeScript** 」
 
-## GitHub Stats
-![Abdul Hadi GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhadi-js&show_icons=true&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+Next.js+%2F+React+%2F+TypeScript;Building+Production-Grade+Apps+on+AWS+%26+Railway;CS+%40+MAJU+%C2%B7+SMIT+%7C+Karachi%2C+Pakistan;Open+to+Freelance+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## Contact
-**Abdul Hadi** — Full-Stack Developer based in Karachi, Pakistan
-Email: dev.alhadi@gmail.com · LinkedIn: [linkedin.com/in/alhadi-dev](https://linkedin.com/in/alhadi-dev) · Twitter: [@AlhadiDev](https://x.com/AlhadiDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alhadi--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhadi-dev/)
+[![X](https://img.shields.io/badge/X-@AlhadiDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlhadiDev)
+[![Instagram](https://img.shields.io/badge/Instagram-@_al__hadii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_al_hadii/)
+[![Email](https://img.shields.io/badge/Email-dev.alhadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.alhadi@gmail.com)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧑‍💻 About Me
+
+- 🎓 Studying **Computer Science** @ **MAJU** (Mohammad Ali Jinnah University) · Graduate of **SMIT** (Saylani Mass IT Training)
+- 📍 Based in **Karachi, Pakistan**
+- 🛠️ Currently building **FixIt** — a full-stack home services platform (NestJS + Next.js + AWS/Terraform + Railway)
+- 💡 Interested in scalable backend architecture, cloud infrastructure (AWS), and polished frontend UI/UX
+- 💼 **Open to freelance work**
+- ⚡ Fun fact: I deploy my side-projects like production apps — CI/CD pipelines, Docker, Terraform and all
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+
+**Backend**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
+
+**Database & Cache**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+
+**Cloud, DevOps & Tools**
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" width="45" height="45" alt="Stripe"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🧪 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛠️ [FixIt — AWS Deployment](https://github.com/abdulhadi-js/fixit-aws)
+Full-stack home services platform connecting consumers with technicians. OTP auth, real-time job scheduling, Stripe payments, dashboards for consumers & technicians.
+
+**Stack:** NestJS · Next.js · PostgreSQL · Redis · Stripe · Terraform · AWS (EC2, RDS, S3, CloudFront) · GitHub Actions CI/CD
+
+🔗 [Live App](http://fixit-frontend-app.s3-website-ap-southeast-1.amazonaws.com) · [Repo](https://github.com/abdulhadi-js/fixit-aws)
+
+</td>
+<td width="50%">
+
+### 🔧 [FixIt — Backend API](https://github.com/abdulhadi-js/Fixit-Backend)
+Scalable REST API powering the FixIt platform — JWT role-based auth, TypeORM scheduling logic, technician agenda management, and Stripe webhook processing.
+
+**Stack:** NestJS · TypeScript · PostgreSQL · TypeORM · JWT · Stripe SDK · Docker · Railway
+
+🔗 [Live API](https://fixit-backend-production-8e9f.up.railway.app/api/v1/services) · [Repo](https://github.com/abdulhadi-js/Fixit-Backend)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛍️ [LuxeStore (Ecommerce-App)](https://github.com/abdulhadi-js/Ecommerce-App)
+Enterprise-grade luxury e-commerce platform with atomic Prisma transactions, secure Stripe checkout, rate-limited APIs, and Cloudinary-optimized asset delivery.
+
+**Stack:** Next.js (App Router) · Prisma · PostgreSQL · Stripe · Upstash Redis · Cloudinary
+
+🔗 [Live Demo](https://luxestoreapp.vercel.app) · [Repo](https://github.com/abdulhadi-js/Ecommerce-App)
+
+</td>
+<td width="50%">
+
+### ✨ [Cabex](https://github.com/abdulhadi-js/cabex)
+Motion-driven, high-end e-commerce UI concept with bento-grid layouts and Framer Motion animations — a design showcase built for smooth, boutique-style browsing.
+
+**Stack:** Next.js · Tailwind CSS · Framer Motion · Lucide Icons
+
+🔗 [Live Demo](https://cabex.vercel.app) · [Repo](https://github.com/abdulhadi-js/cabex)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📌 See all repositories → [github.com/abdulhadi-js?tab=repositories](https://github.com/abdulhadi-js?tab=repositories)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulhadi-js&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul Hadi's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadi-js&theme=tokyonight&hide_border=true" alt="Abdul Hadi's GitHub streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadi-js&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://komarev.com/ghpvc/?username=abdulhadi-js&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Collaboration
+
+I'm open to collaborating on:
+
+- 🛒 Full-stack e-commerce & SaaS platforms
+- ☁️ Cloud-deployed apps (AWS, Terraform, Docker, CI/CD)
+- 🔧 Backend APIs with NestJS / PostgreSQL / Redis
+- 💼 Freelance web development projects
+
+## 📫 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhadi-dev/)
+[![Email](https://img.shields.io/badge/Gmail-dev.alhadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.alhadi@gmail.com)
+[![X](https://img.shields.io/badge/X-@AlhadiDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AlhadiDev)
+[![Facebook](https://img.shields.io/badge/Facebook-abdul.hadi.330095-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdul.hadi.330095)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+⚡ Building real-world apps, one deploy at a time.
+
+**Star ⭐ my repos if they helped you!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
