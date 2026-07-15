@@ -126,10 +126,10 @@ Motion-driven, high-end e-commerce UI concept with bento-grid layouts and Framer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdulhadi-js&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul Hadi's GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=abdulhadi-js&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdul Hadi's GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadi-js&theme=tokyonight&hide_border=true" alt="Abdul Hadi's GitHub streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhadi-js&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulhadi-js&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://komarev.com/ghpvc/?username=abdulhadi-js&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views"/>
 
