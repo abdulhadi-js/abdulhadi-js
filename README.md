@@ -81,12 +81,12 @@ Full-stack home services platform connecting consumers with technicians. OTP aut
 </td>
 <td width="50%">
 
-### 🔧 [FixIt — Backend API](https://github.com/abdulhadi-js/Fixit-Backend)
-Scalable REST API powering the FixIt platform — JWT role-based auth, TypeORM scheduling logic, technician agenda management, and Stripe webhook processing.
+### 🔧 [FixIt — Full Stack (Vercel + Railway)](https://github.com/abdulhadi-js/Fixit)
+Premium, full-stack home services platform connecting consumers with skilled technicians. Real-time job scheduling, secure Stripe payments, OTP authentication, and dedicated consumer/technician dashboards.
 
-**Stack:** NestJS · TypeScript · PostgreSQL · TypeORM · JWT · Stripe SDK · Docker · Railway
+**Stack:** Next.js 15 · NestJS 10 · PostgreSQL · JWT (access + refresh) · Stripe (Payment Intents + Webhooks) · Vercel · Railway
 
-🔗 [Live API](https://fixit-backend-production-8e9f.up.railway.app/api/v1/services) · [Repo](https://github.com/abdulhadi-js/Fixit-Backend)
+🔗 [Live App](https://fixit-beige.vercel.app) · [Live API](https://fixit-production-b37f.up.railway.app/api/v1) · [Repo](https://github.com/abdulhadi-js/Fixit)
 
 </td>
 </tr>
