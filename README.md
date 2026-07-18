@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Studying **Computer Science** @ **MAJU** (Mohammad Ali Jinnah University) · Graduate of **SMIT** (Saylani Mass IT Training)
+- 🎓 Studying **Computer Science** @ **MAJU** (Mohammad Ali Jinnah University) · Part of **SMIT** (Saylani Mass IT Training)
 - 📍 Based in **Karachi, Pakistan**
 - 🛠️ Currently building **FixIt** — a full-stack home services platform (NestJS + Next.js + AWS/Terraform + Railway)
 - 💡 Interested in scalable backend architecture, cloud infrastructure (AWS), and polished frontend UI/UX
@@ -38,19 +38,30 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
 
 **Backend**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45" height="45" alt="NPM"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="45" height="45" alt="Yarn"/>
 
 **Database & Cache**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" height="45" alt="Supabase"/>
 
 **Cloud, DevOps & Tools**
 
@@ -60,6 +71,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 <img src="https://cdn.simpleicons.org/stripe/635BFF" width="45" height="45" alt="Stripe"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="45" height="45" alt="Vercel"/>
+<img src="https://cdn.simpleicons.org/railway/0B0D0E" width="45" height="45" alt="Railway"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 
 </div>
 
